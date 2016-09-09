@@ -6,9 +6,10 @@
 # This script can be used to block a certain
 # list of websites for a certain time span after which
 # the blocked sites will be available for use.
-# The current scipt modifies the 'hosts' file of Windows TCP/IP
+# ***The current scipt modifies the 'hosts' file of Windows TCP/IP
 # therefore it requires 'ADMINISTRATOR ACCESS' to perform
 # the desired functions
+# ***This script requires Python 3+ installed
 
 
 #imports
